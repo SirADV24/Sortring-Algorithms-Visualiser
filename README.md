@@ -13,4 +13,4 @@ Each "sort" button change between the sorting algorithms.
 # Logic
 
 To achive the "step-by-step" sortring we store all the swaps that would have been made by the sortring algorythm.
-in the interface we change the bars acording to the swaps recorder, updating the scene each time.
+After that the interface we change the bars acording to the swaps recorded, updating the scene each time.
